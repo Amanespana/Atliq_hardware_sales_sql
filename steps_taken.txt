@@ -1,0 +1,49 @@
+1.Downloaded data from kaggle
+2. Created new schema in MySQL
+3. Imported 6 csv files using Table Import Wizard
+4. Data Analysis using SQL Queries
+- Questions
+	done 0. annual quantites old, annual percent chnage
+	done 1. Sales/revenue in years 2018-22, annual change, time series analysis 5 lines in 1 chart
+	done 2. Profit in years 2018-22, annual change
+
+	done Task - bring above 3 result sets together
+
+	done 3. Change in manufacturing cost of one of the best selling product
+	done 4. Change in gross sales price and profit of one of the best selling product
+	5. Impact of discount on sales
+	done 6. Find any insights from product variant, product category
+Rough work
+done - Find top 10 products in every year
+done - top 10 cutsomers by quantity bought every year
+done - Top 10 customers by profit every year
+done - No. of increase in customers year by year
+
+Learning
+1. CTE's
+2. Joins
+3. Functions: Lag() over (order by col_name), 
+
+Statements used
+1. CREATE TABLE
+2. DROP TABLE
+3. CTE using WITH clause
+4. SELECT
+5. COUNT
+6. DISTINCT
+7. WHERE
+8. GROUP BY
+9 ORDER BY
+10. LAG OVER
+11. ROUND
+12. INNER JOIN
+
+5. Visualization ( keep in mind to display and tell story about the key insights)
+- Using Power Bi
+- Imported the first 6 raw tables 
+- Using Power Query to merge tables using merge queries feature
+- deleted 3 redundant tables
+- modified data model
+- use new table feature to create group by tables using summarizecolumns() function
+- sales trend monthly and quarterly filtered by year slicer
+- sales proportion from platfroms (pie chart)

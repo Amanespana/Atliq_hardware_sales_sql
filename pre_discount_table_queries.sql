@@ -1,0 +1,1 @@
+describe fact_pre_discount;
