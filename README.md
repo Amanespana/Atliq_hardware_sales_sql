@@ -3,11 +3,11 @@ This project leverages the power of MySQL Workbench to perform an in-depth sales
 
 The dataset contains six tables:
 1. dim_customer: contains customer-related data
-dim_product: contains product-related data
-fact_gross_price: contains gross price information for each product
-fact_manufacturing_cost: contains the cost incurred in the production of each product
-fact_pre_invoice_deductions: contains pre-invoice deductions information for each product
-fact_sales_monthly: contains monthly sales data for each product.
+2. dim_product: contains product-related data
+3. fact_gross_price: contains gross price information for each product
+4. fact_manufacturing_cost: contains the cost incurred in the production of each product
+5. fact_pre_invoice_deductions: contains pre-invoice deductions information for each product
+6. fact_sales_monthly: contains monthly sales data for each product.
 
 # SQL Commands Used:
 - CREATE TABLE
