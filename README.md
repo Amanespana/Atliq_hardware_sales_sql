@@ -11,3 +11,9 @@ This project leverages the power of MySQL Workbench to perform an in-depth sales
 - SUBQUERIES
 - OVER/PARTITION BY
 - ROW_NUMBER (Window Function)
+
+<p align="center">
+  <img src="images/query1.1.png" alt="Image 1" width="400" />
+  <img src="images/result1.png" alt="Image 2" width="400" />
+</p>
+
