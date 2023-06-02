@@ -12,6 +12,6 @@ This project leverages the power of MySQL Workbench to perform an in-depth sales
 - OVER/PARTITION BY
 - ROW_NUMBER (Window Function)
 
-  ![Query1](images/query1.1.png)
-
+![Query1](images/query1.1.png)
+![result1](images/result1.png)
 
