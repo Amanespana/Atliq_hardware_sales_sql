@@ -20,6 +20,4 @@ The dataset contains six tables:
 - OVER/PARTITION BY
 - ROW_NUMBER (Window Function)
 
-![Query1](images/query1.1.png)
-![result1](images/result1.png)
 
