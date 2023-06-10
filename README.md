@@ -20,4 +20,4 @@ The dataset contains six tables:
 - OVER/PARTITION BY
 - ROW_NUMBER (Window Function)
 
-
+![Queries](images/carbon_white.png)
