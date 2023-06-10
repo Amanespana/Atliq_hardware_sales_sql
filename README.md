@@ -22,4 +22,3 @@ The dataset contains six tables:
 
 ![Queries](images/carbon_white.png)
 
-<iframe title="dashbaord1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjQ2YmRkOGItZGUxZC00MzVhLWI1MmMtZjNlY2NhZDAzMzUwIiwidCI6IjY4YWFmOTBkLTM5OGEtNDk3ZC05YTBiLTFkZjk1ZmEyNDcyNCJ9" frameborder="0" allowFullScreen="true"></iframe>
