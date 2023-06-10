@@ -22,3 +22,5 @@ The dataset contains six tables:
 
 ![Queries](images/carbon_white.png)
 
+![dashboard](images/atliq_sales_performance_dashbaord.png)
+
